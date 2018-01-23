@@ -1,6 +1,15 @@
-# CS267 Applications of Parallel Computers
+###### Mitch Negus – Spring 2018
 
-## Mitch Negus – Spring 2018
+## An application of parallel computing 
+
+...
+...
+...
+...
+...
+
+[Bio](bio.md)
+[Contact](contact.md)
 
 
 
