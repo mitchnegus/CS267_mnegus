@@ -5,3 +5,6 @@
 ...
 ...
 
+<img src="img/gmail.png" width=16px> negus@berkeley.edu  
+<img src="img/twitter.png" width=16px> [@mitchnegus](https://twitter.com/mitchnegus)  
+<img src="img/github.png" width=16px> [mitchnegus](https://github.com/mitchnegus)
