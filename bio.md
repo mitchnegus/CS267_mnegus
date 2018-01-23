@@ -2,7 +2,7 @@
 
 I am a second year graduate student in the UC Berkeley Nuclear Engineering Department, studying under Dr. Rachel Slaybaugh. My current research focuses on the simulation of nuclear reactors using deterministic and stochastic modeling approaches, though I expect my dissertation to focus on proving the feasibility incorporating modern technologies into nuclear reactor operations–both in the current reactor fleet and in the next generation of nuclear plants.
 
-<img src="img/cloudchamber.jpg" align="middle">
+<img src="img/cloudchamber.jpg" style="display:block; margin-left: auto; margin-right: auto;">
 
 My hope is to learn how to use parallel architectures and design parallel programs for either (or better, both) projects. High fidelity ereactor simulations are currently far too complicated to be run on single machines, and my work on that project relies on Titan, the Oak Ridge National Laboratory (ORNL) supercomputer. While Monte Carlo programs can be embarassingly parallel, solutions of the Boltzmann neutron transport equation require more sophisticated parallelization techniques. I feel that my current understanding of writing and compiling parallel programs is limiting my ability to maximize the efficiency of my simulations. For instance, Titan allocations are based on compute hours, which include time for both CPU and GPU reservations simultaneously. Where I do not know how to make use of the GPU components, my allocations are nearly 50% inefficient. 
 
