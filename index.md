@@ -9,7 +9,4 @@
 ...
 
 [Bio](bio.md)
-[Contact](contact.md)
-
-
 
