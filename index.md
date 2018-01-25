@@ -4,7 +4,7 @@
 
 ## Parallelizing Radiation Transport
 
-<img src="img/te.png" width="600px"> 
+<img src="img/te.png" width="1000px"> 
 
 Radiation is everywhere. Some of these particles–neutrinos and high energy gamma rays–pass through us every day with little effect. Other types, like relatively large alpha particles, are stopped by a barrier as thin as a sheet of paper. Since the beginning of the 20th century, scientists and engineers have pioneered applications based on the motion of these particles. Accelerators have been created for understanding the fundamental structure of our universe, X-ray devices have been invented to image anatomy, nuclear reactors have been constructed to harness the universe's most energy dense fuel, and nuclear weapons have been developed to threaten international adversaries.
 
